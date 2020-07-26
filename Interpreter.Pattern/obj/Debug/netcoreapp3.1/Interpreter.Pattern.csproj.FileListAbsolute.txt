@@ -1,0 +1,13 @@
+E:\C#\DesignDemo\Interpreter.Pattern\bin\Debug\netcoreapp3.1\Interpreter.Pattern.exe
+E:\C#\DesignDemo\Interpreter.Pattern\bin\Debug\netcoreapp3.1\Interpreter.Pattern.deps.json
+E:\C#\DesignDemo\Interpreter.Pattern\bin\Debug\netcoreapp3.1\Interpreter.Pattern.runtimeconfig.json
+E:\C#\DesignDemo\Interpreter.Pattern\bin\Debug\netcoreapp3.1\Interpreter.Pattern.runtimeconfig.dev.json
+E:\C#\DesignDemo\Interpreter.Pattern\bin\Debug\netcoreapp3.1\Interpreter.Pattern.dll
+E:\C#\DesignDemo\Interpreter.Pattern\bin\Debug\netcoreapp3.1\Interpreter.Pattern.pdb
+E:\C#\DesignDemo\Interpreter.Pattern\obj\Debug\netcoreapp3.1\Interpreter.Pattern.csprojAssemblyReference.cache
+E:\C#\DesignDemo\Interpreter.Pattern\obj\Debug\netcoreapp3.1\Interpreter.Pattern.AssemblyInfoInputs.cache
+E:\C#\DesignDemo\Interpreter.Pattern\obj\Debug\netcoreapp3.1\Interpreter.Pattern.AssemblyInfo.cs
+E:\C#\DesignDemo\Interpreter.Pattern\obj\Debug\netcoreapp3.1\Interpreter.Pattern.csproj.CoreCompileInputs.cache
+E:\C#\DesignDemo\Interpreter.Pattern\obj\Debug\netcoreapp3.1\Interpreter.Pattern.dll
+E:\C#\DesignDemo\Interpreter.Pattern\obj\Debug\netcoreapp3.1\Interpreter.Pattern.pdb
+E:\C#\DesignDemo\Interpreter.Pattern\obj\Debug\netcoreapp3.1\Interpreter.Pattern.genruntimeconfig.cache

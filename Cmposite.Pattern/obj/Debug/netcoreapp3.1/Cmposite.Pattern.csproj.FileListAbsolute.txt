@@ -1,0 +1,13 @@
+E:\C#\DesignDemo\Cmposite.Pattern\bin\Debug\netcoreapp3.1\Cmposite.Pattern.exe
+E:\C#\DesignDemo\Cmposite.Pattern\bin\Debug\netcoreapp3.1\Cmposite.Pattern.deps.json
+E:\C#\DesignDemo\Cmposite.Pattern\bin\Debug\netcoreapp3.1\Cmposite.Pattern.runtimeconfig.json
+E:\C#\DesignDemo\Cmposite.Pattern\bin\Debug\netcoreapp3.1\Cmposite.Pattern.runtimeconfig.dev.json
+E:\C#\DesignDemo\Cmposite.Pattern\bin\Debug\netcoreapp3.1\Cmposite.Pattern.dll
+E:\C#\DesignDemo\Cmposite.Pattern\bin\Debug\netcoreapp3.1\Cmposite.Pattern.pdb
+E:\C#\DesignDemo\Cmposite.Pattern\obj\Debug\netcoreapp3.1\Cmposite.Pattern.csprojAssemblyReference.cache
+E:\C#\DesignDemo\Cmposite.Pattern\obj\Debug\netcoreapp3.1\Cmposite.Pattern.AssemblyInfoInputs.cache
+E:\C#\DesignDemo\Cmposite.Pattern\obj\Debug\netcoreapp3.1\Cmposite.Pattern.AssemblyInfo.cs
+E:\C#\DesignDemo\Cmposite.Pattern\obj\Debug\netcoreapp3.1\Cmposite.Pattern.csproj.CoreCompileInputs.cache
+E:\C#\DesignDemo\Cmposite.Pattern\obj\Debug\netcoreapp3.1\Cmposite.Pattern.dll
+E:\C#\DesignDemo\Cmposite.Pattern\obj\Debug\netcoreapp3.1\Cmposite.Pattern.pdb
+E:\C#\DesignDemo\Cmposite.Pattern\obj\Debug\netcoreapp3.1\Cmposite.Pattern.genruntimeconfig.cache
